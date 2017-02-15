@@ -1,3 +1,7 @@
+---
+title: Page one
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub]({{ site.github.url }}/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
